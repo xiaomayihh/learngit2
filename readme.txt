@@ -14,3 +14,5 @@ xiaomiyi , nihai haipama???   this is feature1. this is feature2aaaaaaa.
 >>>>>>> feature2
 
 add merge
+
+Git is free software...`
