@@ -12,3 +12,5 @@ xiaomiyi , nihai haipama???   this is feature. that's all right
 =======
 xiaomiyi , nihai haipama???   this is feature1. this is feature2aaaaaaa.
 >>>>>>> feature2
+
+add merge
